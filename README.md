@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @raqpoldi
+- 👋 Hi, I’m Raquel Poldi
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning Phyton
 
