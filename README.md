@@ -7,7 +7,7 @@
 raqpoldi/raqpoldi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-[Home]
+
 ## Welcome to IT Career Blueprint (a help to take you from today to the future)
 
 Software Construction
